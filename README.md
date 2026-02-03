@@ -32,5 +32,9 @@ Now that we have set up a new team we will create a new setting that will allow 
 <img width="1071" height="729" alt="slide4" src="https://github.com/user-attachments/assets/9ee90072-12cd-4eff-866e-0674efec3e5f" />
 </p>
 <p>
-
-
+It is now time to create Agents. Agents are the employees of the helpdesk that actually work on solving tickets. Agents are assigned primary departments and given a primary role for tickets sent to their department. Agents can be given access to other departments other than their own, they can also have different roles depending on which department they are in. Permissions, Access, & Teams are be assigned in the Agents tab.
+</p>
+<p>
+<img width="932" height="843" alt="slide5" src="https://github.com/user-attachments/assets/6a775721-3dc7-47c2-a3f1-6163f2b5b298" />
+</p>
+<p>
