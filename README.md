@@ -23,13 +23,15 @@ Select the "Departments" button in the agents tab. Here we will be able to creat
 After configuring a new department we will set up a new team. Teams allow you to pull agents from different departments you can have an A team that has top technicians from specific departments. For example you can create a help topic that correlates with a product you produce, and assign it to a team of agents that specialize in that particular product. To set up a team go to Agents->Teams. A Level I support team has been created by default, in this example we will create a Level II Support Team.
 </p>
 <p>
-<img width="1033" height="737" alt="slide3" src="https://github.com/user-attachments/assets/ce06a8b1-a731-42b7-8a55-9f7570fc567a" />
+<img width="1033" height="714" alt="slide3" src="https://github.com/user-attachments/assets/64997f1a-c7c0-48d3-9551-34ae4117c9d8" />
+
 </p>
 <p>
 Now that we have set up a new team we will create a new setting that will allow anyone to create tickets. Admin Panel->Settings->User Settings.
 </p>
 <p>
-<img width="1071" height="729" alt="slide4" src="https://github.com/user-attachments/assets/9ee90072-12cd-4eff-866e-0674efec3e5f" />
+<img width="1071" height="704" alt="slide4" src="https://github.com/user-attachments/assets/45bf375b-2c1b-4b9d-82ed-fdba0a343cd1" />
+
 </p>
 <p>
 It is now time to create Agents. Agents are the employees of the helpdesk that actually work on solving tickets. Agents are assigned primary departments and given a primary role for tickets sent to their department. Agents can be given access to other departments other than their own, they can also have different roles depending on which department they are in. Permissions, Access, & Teams are be assigned in the Agents tab.
