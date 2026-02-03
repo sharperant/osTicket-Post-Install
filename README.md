@@ -20,13 +20,6 @@ Select the "Departments" button in the agents tab. Here we will be able to creat
 <img width="1074" height="865" alt="slide2" src="https://github.com/user-attachments/assets/4ebe6655-af8d-4ca4-9302-73c2a5945c45" />
 </p>
 <p>
-
-<h2>Installation Steps</h2>
-
-<p>
-<img <img width="1126" height="682" alt="Capture" src="https://github.com/user-attachments/assets/20808ca4-5645-4d82-b94d-d79dcdbf0435" />
-</p>
-<p>
 After configuring a new department we will set up a new team. Teams allow you to pull agents from different departments you can have an A team that has top technicians from specific departments. For example you can create a help topic that correlates with a product you produce, and assign it to a team of agents that specialize in that particular product. To set up a team go to Agents->Teams. A Level I support team has been created by default, in this example we will create a Level II Support Team.
 </p>
 <p>
