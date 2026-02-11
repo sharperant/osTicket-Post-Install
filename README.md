@@ -14,13 +14,13 @@ We have successfully configured osTicket from scratch. Now we will do some syste
 
 </p>
 <p>
-Select the "Departments" button in the agents tab. Here we will be able to create a new department. Each Agent is assigned to a specific department depending on their assigned role within the helpdesk. In this case we will be creating the "System Administrators" department, this is where the Supreme Admins will be designated. Other specific settings such as SLAs, managers and other email settings can be set up in the departments tab.
+Select the "Departments" button in the agents tab. Here we will be able to create a new department. Each Agent is assigned to a specific department depending on their assigned role within the helpdesk. In this case we will be creating the "System Administrators" department. This is where the Supreme Admins will be designated. Other specific settings such as SLAs, managers and other email settings can be set up in the departments tab.
 </p>
 <p>
 <img width="1074" height="865" alt="slide2" src="https://github.com/user-attachments/assets/4ebe6655-af8d-4ca4-9302-73c2a5945c45" />
 </p>
 <p>
-After configuring a new department we will set up a new team. Teams allow you to pull agents from different departments you can have an A team that has top technicians from specific departments. For example you can create a help topic that correlates with a product you produce, and assign it to a team of agents that specialize in that particular product. To set up a team go to Agents->Teams. A Level I support team has been created by default, in this example we will create a Level II Support Team.
+After configuring a new department we will set up a new team. Teams allow you to pull agents from different departments you can have an "A team" that has top technicians from specific departments. For example you can create a help topic that correlates with a product you produce, and assign it to a team of agents that specialize in that particular product. To set up a team go to Agents->Teams. A Level I support team has been created by default, in this example we will create a Level II Support Team.
 </p>
 <p>
 <img width="1033" height="714" alt="slide3" src="https://github.com/user-attachments/assets/64997f1a-c7c0-48d3-9551-34ae4117c9d8" />
@@ -52,7 +52,7 @@ SLAs Plans provide a length of time in which the help desk is expected to take i
 <img width="923" height="601" alt="slide7" src="https://github.com/user-attachments/assets/6a767aa2-bbec-411c-a92d-53d1ff77b4b5" />
 </p>
 <p>
-Help topics help users categorize their tickets. In the example below we have made a help topic for "Business Critical Outage" this can be if customers cannot access mobile banking.
+Help topics help users categorize their tickets. In the example below we have made a help topic for "Business Critical Outage". This can be used if customers cannot access mobile banking.
 </p>
 <p>
 <img width="934" height="577" alt="slide8" src="https://github.com/user-attachments/assets/15537372-765e-4493-80f1-4b8e7490a701" />
