@@ -116,3 +116,18 @@ CONFIGURE SLA. Under the Admin Panel > Go to "Manage" section > Click on "SLA" 1
 <img width="2090" height="1340" alt="slide14" src="https://github.com/user-attachments/assets/278a34b8-15aa-4f89-87a2-39c0b81e66c8" />
 <p>
 <p>
+Do the same Step for Karen User.
+<p>
+<p>
+CONFIGURE SLA. Under the Admin Panel > Go to "Manage" section > Click on "SLA" 1. Name: Sev-A 2. Sev-B 3. Sev-C 1. Grace Period: 1-hour 2. 4-hour 3. 8-hour 1. Schedule: 24/7 2. 24/7 3. M-F 8am-5pm + holidays.
+<p>
+<p>
+<img width="2060" height="1338" alt="slide15" src="https://github.com/user-attachments/assets/9c735bd2-ad6b-4a05-8f08-63b93132d501" />
+<p>
+<p>
+<img width="2100" height="1332" alt="slide16" src="https://github.com/user-attachments/assets/35d9330d-68b5-4ccc-b283-2977307ded4c" />
+<p>
+<p>
+<img width="2042" height="1360" alt="slide17" src="https://github.com/user-attachments/assets/4328f2a2-b9a7-4d38-938b-cecdf167c04c" />
+<p>
+<p>
