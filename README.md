@@ -86,3 +86,15 @@ Allow anyone to create ticket. Under the Admin Panel > Click on "Settings" > Go 
 <img width="2062" height="1388" alt="slide9" src="https://github.com/user-attachments/assets/cc67ca57-b378-423d-bac9-60bf1992dd4f" />
 <p>
 <p>
+CONFIGURE AGENTS (WORKERS). Under Admin Panel > Go to Agents > Click "Add New" Here I created: Jane Doe – Department: Sysadmin, Role: Supreme Admin, Team: Online Banking. And : John – Department: Support, Role: View Only.
+<p>
+<p>
+<img width="2116" height="1097" alt="slide10" src="https://github.com/user-attachments/assets/f2a85671-a2b1-40ce-b265-2506fb07cbfb" />
+<p>
+<p>
+<img width="2210" height="1484" alt="slide11" src="https://github.com/user-attachments/assets/df28cf35-e7de-457f-99ee-569e9fba30ff" />
+<p>
+<p>
+<img width="2126" height="1088" alt="slide12" src="https://github.com/user-attachments/assets/42873b7a-3e33-4957-89e2-d0b051931d9d" />
+<p>
+<p>
