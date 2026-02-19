@@ -25,6 +25,7 @@ In this tutorial we will demonstrate the post configuration setup of the osTicke
 </p>
 <p>
 <h2>Post-Install Configuration Objectives</h2>
+  
 - Configure Roles
   
 - Configure Departments
