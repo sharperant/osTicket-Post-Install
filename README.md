@@ -123,6 +123,19 @@ CONFIGURE SLA. Under the Admin Panel > Go to "Manage" section > Click on "SLA" 1
 <img width="2100" height="1332" alt="slide16" src="https://github.com/user-attachments/assets/35d9330d-68b5-4ccc-b283-2977307ded4c" />
 <p>
 <p>
+CONFIGURE HELP TOPICS. Under Admin Panel > Go to "Manage" > Click "Help Topics" Business Critical Outage (parent: Report a Problem) Personal Computer Issues (parent: Report a Problem) Equipment Request (parent: General Inquiry) Password Reset (parent: Report a Problem) Other (parent: General Inquiry)
+<p>
+<p>
 <img width="2042" height="1360" alt="slide17" src="https://github.com/user-attachments/assets/4328f2a2-b9a7-4d38-938b-cecdf167c04c" />
 <p>
 <p>
+<img width="2048" height="1357" alt="slide18" src="https://github.com/user-attachments/assets/1a53814f-6780-4135-99d4-397d7432a28d" />
+<p>
+<p>
+<img width="2070" height="1358" alt="slide19" src="https://github.com/user-attachments/assets/6951174b-fa12-4471-acdd-60954e8f33ae" />
+<p>
+<p>
+<img width="2094" height="1360" alt="slide20" src="https://github.com/user-attachments/assets/cbf26709-0f10-4ad3-82dd-c68b012a2663" />
+<p>
+<p>
+This now fully configures our osTicket and for a real-world help desk environment. I hope this guide was able to help clarify and assist you in setting up your osTicket. I recommended to practice triaging and solving tickets.
