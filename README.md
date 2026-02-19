@@ -8,12 +8,20 @@
 In this tutorial we will demonstrate the post configuration setup of the osTicket system.
 </p>
 <p>
-Environments and Technologies Used
-- Microsoft Azure (Virtual Machines/Compute)
+<h2>Environments and Technologies Used<h2>
+</p>
+<p>
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
-Operating Systems Used
+</p>
+<p>
+<h2>Operating Systems Used<h2>
+</p>
+<p>
 - Windows 10 (21H2)
+</p>
+<p>
 Post-Install Configuration Objectives
 - Configure Roles
 - Configure Departments
