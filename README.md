@@ -21,6 +21,7 @@ In this tutorial we will demonstrate the post configuration setup of the osTicke
 <h2>Operating Systems Used</h2>
 </p>
 <p>
+  
 - Windows 10 (21H2)
 </p>
 <p>
