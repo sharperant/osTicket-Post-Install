@@ -98,3 +98,7 @@ CONFIGURE AGENTS (WORKERS). Under Admin Panel > Go to Agents > Click "Add New" H
 <img width="2126" height="1088" alt="slide12" src="https://github.com/user-attachments/assets/42873b7a-3e33-4957-89e2-d0b051931d9d" />
 <p>
 <p>
+CONFIGURE USERS (CUSTOMERS). Under Admin Panel > Go to "Users" -> Click "Add New" Add two end users named Ken & Karen. End users or customers, can create and view support tickets, access a knowledge base, and track the status of their issues through the customer portal.
+<p>
+<p>
+KEN USER:
