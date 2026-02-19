@@ -14,7 +14,6 @@ In this tutorial we will demonstrate the post configuration setup of the osTicke
   
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
-
 - Internet Information Services (IIS)
 
 </p>
@@ -27,11 +26,17 @@ In this tutorial we will demonstrate the post configuration setup of the osTicke
 <p>
 <h2>Post-Install Configuration Objectives</h2>
 - Configure Roles
+
 - Configure Departments
+
 - Configure Teams
+
 - Configure Agents
+
 - Configure Users
+
 - Configure SLA
+
 - Configure Help Topics
 - Configuration Steps</p>
 </p>
