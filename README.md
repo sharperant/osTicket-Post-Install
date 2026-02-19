@@ -41,7 +41,10 @@ In this tutorial we will demonstrate the post configuration setup of the osTicke
 </p>
 <p>
 <p>
-Configuring Roles. After logging into osTicket with Admin credentials, Go to Admin Panel > Click "Agents" > Click "Roles" Click "Add New Role" and name it Supreme Admin granting you it's full permissions.
+CONFIGURE ROLES. After logging into osTicket with Admin credentials, Go to Admin Panel > Click "Agents" > Click "Roles" Click "Add New Role" and name it Supreme Admin granting you it's full permissions.
+<p>
+<p>
+SUPREME ADMIN:
 <p>
 <p>
 <img width="80%" height="1146" alt="slide2" src="https://github.com/user-attachments/assets/39d6d34a-5e75-4267-b173-f41102edcd65" />
@@ -57,5 +60,23 @@ Configuring Roles. After logging into osTicket with Admin credentials, Go to Adm
 <p>
 <p>
 <img width="80%" height="913" alt="slide5" src="https://github.com/user-attachments/assets/0a16b60d-95a4-44b3-948c-f5806af087b8" />
+<p>
+<p>
+CONFIGURE DEPARTMENTS. Go back to Agents > Click "Departments" > click "Add New Department" Name it "Sysadmin" and set its parent to Top-Level.
+<p>
+<p>
+SYSTEM ADMINISTRATORS:
+<p>
+<p>
+<img width="2252" height="1514" alt="slide6" src="https://github.com/user-attachments/assets/40bf9b1e-4f2a-4cba-8125-c3ced63e70e8" />
+<p>
+<p>
+<img width="2252" height="1514" alt="slide7" src="https://github.com/user-attachments/assets/2baf0a3a-0d26-40ba-84af-92a033bd11e7" />
+<p>
+<p>
+CONFIGURE TEAMS. Go back to "Agents" again > Click "Teams" > add a new team and name it whatever you want.
+<p>
+<p>
+<img width="2164" height="1370" alt="slide8" src="https://github.com/user-attachments/assets/aabf04c2-fc7a-4266-b936-f2a5ea67c010" />
 <p>
 <p>
