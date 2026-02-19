@@ -11,9 +11,13 @@ In this tutorial we will demonstrate the post configuration setup of the osTicke
 <h2>Environments and Technologies Used</h2>
 </p>
 <p>
+  
 - Microsoft Azure (Virtual Machines/Computer)
+  
 - Remote Desktop
+
 - Internet Information Services (IIS)
+
 </p>
 <p>
 <h2>Operating Systems Used</h2>
