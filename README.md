@@ -8,8 +8,23 @@
 In this tutorial we will demonstrate the post configuration setup of the osTicket system.
 </p>
 <p>
-We have successfully configured osTicket from scratch. Now we will do some system administration and work on some post installation setup. First we will configure new roles within the help desk. In order to do so go to Admin panel-> Agents-> Roles. We will create a Supreme Admin. Click on "Add new role" then enter the name of the new role. You can also modify any specific roles permissions. In this case since we are creating a Supreme Admin they will be given all permissions. Keep in mind roles are used to determine an agents permissions so not all agents will have unlimited access. If you followed the steps correctly your screen should look something like this. As you can see we have successfully created the "Supreme Admin" role.<br />
+Environments and Technologies Used
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Internet Information Services (IIS)
+Operating Systems Used
+- Windows 10 (21H2)
+Post-Install Configuration Objectives
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Configure Agents
+- Configure Users
+- Configure SLA
+- Configure Help Topics
+- Configuration Steps</p>
 </p>
+<p>
 <p><img width="1460" height="539" alt="slide1" src="https://github.com/user-attachments/assets/fb85e0a4-51b7-40f1-8e5f-039c1e727ec9" />
 
 </p>
