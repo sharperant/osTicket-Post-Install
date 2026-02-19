@@ -42,3 +42,8 @@ In this tutorial we will demonstrate the post configuration setup of the osTicke
 </p>
 <p>
 <p>
+<h2>Configure Roles</h2>
+</p>
+<p>
+<p>
+After logging into osTicket with Admin credentials, Go to Admin Panel > Click "Agents" > Click "Roles" Click "Add New Role" and name it Supreme Admin granting you it's full permissions.
