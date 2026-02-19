@@ -16,7 +16,7 @@ In this tutorial we will demonstrate the post configuration setup of the osTicke
 - Internet Information Services (IIS)
 </p>
 <p>
-cOperating Systems Used</h2>
+<h2>Operating Systems Used</h2>
 </p>
 <p>
 - Windows 10 (21H2)
