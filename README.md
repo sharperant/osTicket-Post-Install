@@ -80,3 +80,9 @@ CONFIGURE TEAMS. Go back to "Agents" again > Click "Teams" > add a new team and 
 <img width="2164" height="1370" alt="slide8" src="https://github.com/user-attachments/assets/aabf04c2-fc7a-4266-b936-f2a5ea67c010" />
 <p>
 <p>
+Allow anyone to create ticket. Under the Admin Panel > Click on "Settings" > Go to "User Settings" > Uncheck the "Registration Required" box. Now unregistered users can create tickets, this helps in scenarios where quick ticket creation is vital. Make sure "Require registration and login to create tickets" is not selected.
+<p>
+<p>
+<img width="2062" height="1388" alt="slide9" src="https://github.com/user-attachments/assets/cc67ca57-b378-423d-bac9-60bf1992dd4f" />
+<p>
+<p>
