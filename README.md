@@ -102,3 +102,17 @@ CONFIGURE USERS (CUSTOMERS). Under Admin Panel > Go to "Users" -> Click "Add New
 <p>
 <p>
 KEN USER:
+<p>
+<p>
+<img width="1542" height="914" alt="slide13" src="https://github.com/user-attachments/assets/066e64e9-cbad-47a1-8a53-d30d12b0bdc3" />
+<p>
+<p>
+Do the same Step for Karen User.
+<p>
+<p>
+CONFIGURE SLA. Under the Admin Panel > Go to "Manage" section > Click on "SLA" 1. Name: Sev-A 2. Sev-B 3. Sev-C 1. Grace Period: 1-hour 2. 4-hour 3. 8-hour 1. Schedule: 24/7 2. 24/7 3. M-F 8am-5pm + holidays.
+<p>
+<p>
+<img width="2090" height="1340" alt="slide14" src="https://github.com/user-attachments/assets/278a34b8-15aa-4f89-87a2-39c0b81e66c8" />
+<p>
+<p>
