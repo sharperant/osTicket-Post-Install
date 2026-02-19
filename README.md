@@ -33,7 +33,10 @@ In this tutorial we will demonstrate the post configuration setup of the osTicke
 - Configure Users
 - Configure SLA
 - Configure Help Topics
-- Configuration Steps</p>
+<p>
+<p>
+<h2>Configuration Steps</h2>
+</p>
 </p>
 <p>
-<p><
+<p>
