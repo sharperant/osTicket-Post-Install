@@ -13,7 +13,6 @@ In this tutorial we will demonstrate the post configuration setup of the osTicke
 <p>
   
 - Microsoft Azure (Virtual Machines/Computer)
-  
 - Remote Desktop
 
 - Internet Information Services (IIS)
